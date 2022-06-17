@@ -15,10 +15,12 @@ Asset allocation is an investment strategy that aims to balance risk and reward 
 
 ## Code
 The repository contains two files:
-DeepRL.py -> The reincorcement environment for asset allocation and its fucntions
-main.ipnyb -> The Jupyter notebook
+ <ul>
+  <li>`DeepRL.py` -> The reincorcement environment for asset allocation and its fucntions</li>
+  <li>`main.ipnyb` -> The Jupyter notebook</li>
+</ul> 
 
-To use the code, we only need to run the main.ipnyb notebook. Note that you might need to installl thrid party libraries such as [stable_baselines3](https://stable-baselines3.readthedocs.io/en/master/), [pandas_datareader](https://pandas-datareader.readthedocs.io/en/latest/), [pyfolio](https://github.com/quantopian/pyfolio)
+To use the code, we only need to run the `main.ipnyb` notebook. Note that you might need to installl thrid party libraries such as [stable_baselines3](https://stable-baselines3.readthedocs.io/en/master/), [pandas_datareader](https://pandas-datareader.readthedocs.io/en/latest/), [pyfolio](https://github.com/quantopian/pyfolio)
 
 ## Acknowledgement
 We acknowledge the official code [FinRL](https://github.com/AI4Finance-Foundation/FinRL) & [Stock-Trading-Environment](https://github.com/notadamking/Stock-Trading-Environment)
