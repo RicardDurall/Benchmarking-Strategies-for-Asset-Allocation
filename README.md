@@ -14,7 +14,7 @@ Asset allocation is an investment strategy that aims to balance risk and reward 
 <p align="left"><img width="100%" src="images/results.PNG" /></p>
 
 ## Acknowledgement
-We acknowledge the official code [FinRL](https://github.com/AI4Finance-Foundation/FinRL) & [Stock-Trading-Environment]([https://github.com/switchablenorms/CelebAMask-HQ](https://github.com/notadamking/Stock-Trading-Environment))
+We acknowledge the official code [FinRL](https://github.com/AI4Finance-Foundation/FinRL) & [Stock-Trading-Environment](https://github.com/notadamking/Stock-Trading-Environment)
 
 ## Citation
 ```
