@@ -5,7 +5,7 @@
 
 PyTorch implementation of **Benchmarking Strategies for Asset Allocation**.
 
-<p align="left"><img width="35%" src="images/main.PNG" /></p>
+<p align="left"><img width="50%" src="images/main.PNG" /></p>
 
 ## Overview
 
