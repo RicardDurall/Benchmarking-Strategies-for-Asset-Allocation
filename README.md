@@ -24,3 +24,13 @@ To use the code, we only need to run the `main.ipnyb` notebook. Note that you mi
 
 ## Acknowledgement
 We acknowledge the official code [FinRL](https://github.com/AI4Finance-Foundation/FinRL) & [Stock-Trading-Environment](https://github.com/notadamking/Stock-Trading-Environment)
+
+## Citation
+```
+@article{durall2022asset,
+  title={Asset Allocation: From Markowitz to Deep Reinforcement Learning},
+  author={Durall, Ricard},
+  journal={Available at SSRN 4148379},
+  year={2022}
+}
+```
