@@ -1,7 +1,7 @@
 # Asset Allocation: From Markowitz to Deep Reinforcement Learning
 
 
-[**Thesis**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4148379) | [**Paper**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4148379)
+[**Thesis**](http://hdl.handle.net/10609/146811) | [**Paper**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4148379)
 
 PyTorch implementation of **Asset Allocation: From Markowitz to Deep Reinforcement Learning**.
 
